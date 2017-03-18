@@ -1,4 +1,4 @@
-package br.com.caxamba.agenda;
+package br.com.caxamba.agenda.receiver;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -6,7 +6,9 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 
+import br.com.caxamba.agenda.R;
 import br.com.caxamba.agenda.modelo.Aluno;
+import br.com.caxamba.agenda.receiver.FormularioActivity;
 
 /**
  * Created by pedro on 02/11/2016.

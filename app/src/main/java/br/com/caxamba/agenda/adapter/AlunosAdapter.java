@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import br.com.caxamba.agenda.ListaAlunosActivity;
 import br.com.caxamba.agenda.R;
 import br.com.caxamba.agenda.modelo.Aluno;
 
